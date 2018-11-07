@@ -1,0 +1,86 @@
+@font-face {
+    font-family: 'Circular-Black';
+    src: url('fonts/CircularStd-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Circular-Med';
+    src: url('fonts/CircularStd-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Circular-Bold';
+    src: url('fonts/CircularStd-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Circular-Book';
+    src: url('fonts/CircularStd-Book.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+.fatih{
+  font-family: "Circular-Bold";
+  background: linear-gradient(to right,#009FFF, #ec2F4B);
+  font-size: 300%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.salam{
+  font-family: "Circular-Book";
+  font-size: 200%;
+  color: Wh;
+}
+.ketua{
+  font-family: "Circular-Book";
+  color: #2f3640;
+  font-size: 100%;
+}
+
+.home{
+  font-family: "Circular-Bold";
+  font-size: 100%;
+  color: Blue;
+}
+.button1{
+  display: inline-block;
+    vertical-align: middle;
+    margin: 0 0 1rem 0;
+    padding: 0.85em 1em;
+    -webkit-appearance: none;
+    border: 1px solid transparent;
+    border-radius: 0;
+    transition: background-color 0.25s ease-out,color 0.25s ease-out;
+    font-size: 0.9rem;
+    line-height: 1;
+    text-align: center;
+    cursor: pointer;
+    background-color: #936DFD;
+    color: #fff;
+    transition: all .3s;
+    font-weight: 600;
+    border-radius: 60px;
+    font-weight: 300;
+    padding: 1.25rem;
+    padding-right: 1.75rem;
+    padding-left: 1.75rem;
+    font-size: .875rem;
+    box-shadow: 0 32px 64px 0 rgba(147, 109, 253, 0.5);
+}
+.isisejarah {
+	text-align:justify;
+    width: 834px;
+    height: 434px;
+    font-family: "Circular-Book";
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    color: #707070;
+}
