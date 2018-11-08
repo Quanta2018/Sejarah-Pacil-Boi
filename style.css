@@ -47,7 +47,7 @@
   color: Blue;
 }
 .button1{
-  display: inline-block;
+	display: inline-block;
     vertical-align: middle;
     margin: 0 0 1rem 0;
     padding: 0.85em 1em;
@@ -59,8 +59,8 @@
     line-height: 1;
     text-align: center;
     cursor: pointer;
-    background-color: #936DFD;
-    color: #fff;
+    background-color: #E0000200002;
+    color: #010;
     transition: all .3s;
     font-weight: 600;
     border-radius: 60px;
@@ -69,7 +69,7 @@
     padding-right: 1.75rem;
     padding-left: 1.75rem;
     font-size: .875rem;
-    box-shadow: 0 32px 64px 0 rgba(147, 109, 253, 0.5);
+    box-shadow: 0 32px 64px 0 rgba(186, 132, 86, 0.3);
 }
 .isisejarah {
 	text-align:justify;
