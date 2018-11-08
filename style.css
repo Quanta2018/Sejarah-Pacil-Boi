@@ -4,7 +4,6 @@
     font-weight: 900;
     font-style: normal;
 }
-
 @font-face {
     font-family: 'Circular-Med';
     src: url('fonts/CircularStd-Medium.ttf') format('truetype');
@@ -83,5 +82,10 @@
     font-stretch: normal;
     line-height: 1.25;
     letter-spacing: normal;
+<<<<<<< HEAD
     color: #000;
 }
+=======
+    color: #707070;
+}
+>>>>>>> aa9a4727e52f5b45fac383cbdd1770045db87a5c
